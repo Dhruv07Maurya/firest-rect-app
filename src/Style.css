@@ -1,0 +1,14 @@
+h1 {
+  font-weight: bold;
+  color: yellow;
+}
+input {
+  width: 100%;
+  color: rebeccapurple;
+}
+.txt {
+  text-align: left;
+}
+.roww {
+  margin: 10px 5px;
+}
